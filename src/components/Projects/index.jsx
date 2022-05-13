@@ -8,7 +8,7 @@ function SmallScreen() {
         <div className="flex flex-col gap-5 justify-center align-middle p-2 mt-5 italic" id="project">
           <div className="  rounded-lg p-2" >
             <h1 className="text:3xl sm:text:4xl md:text-5xl " id="pr1">Quotes App</h1>{" "}
-            <p className=" text-xl md:text-2xl leading-10 sm:leading-snug md:leading-normal mt-8" style={{fontFamily:"Lato, serif"}}>
+            <p className=" text-xl md:text-2xl leading-10 sm:leading-snug md:leading-normal mt-2" style={{fontFamily:"Lato, serif"}}>
               It is a <strong>CRUD</strong> App where you can create, read,
               update & delete your own quotes. It is made using HTML, CSS,
               BOOTSTRAP & JAVASCRIPT only. I have deployed this project on Vercel.
@@ -34,7 +34,7 @@ function SmallScreen() {
           
           <div className=" rounded-lg p-2">
             <h1 className="text:3xl sm:text:4xl md:text-5xl " id="pr2">Myntra Landing Page</h1>
-            <p className="italic text-xl md:text-2xl leading-10 sm:leading-snug md:leading-normal mt-8" style={{fontFamily:"Lato, serif"}}>
+            <p className="italic text-xl md:text-2xl leading-10 sm:leading-snug md:leading-normal mt-2" style={{fontFamily:"Lato, serif"}}>
             It is a clone of the myntra landing page. The tech stack used in this project is JAVASCRIPT, BOOTSTRAP, TAILWIND CSS & REACT JS. I have deployed this project on Netlify.
             </p>
             <div id="button2" className="flex  justify-center flex-wrap">
@@ -58,7 +58,7 @@ function SmallScreen() {
           </div>
           <div className=" rounded-lg p-2">
             <h1 className="text:4xl md:text-5xl" id="pr3">Book My Show Clone</h1>
-            <p className="italic text-xl md:text-2xl leading-10 sm:leading-snug md:leading-normal mt-8" style={{fontFamily:"Lato, serif"}}>
+            <p className="italic text-xl md:text-2xl leading-10 sm:leading-snug md:leading-normal mt-2" style={{fontFamily:"Lato, serif"}}>
             It is a clone of the Book My Show website.  It is a full-stack project. For this project, the tech stack used were React JS, Redux, Tailwind CSS, BOOTSTRAP, JAVASCRIPT &, etc. The API used in this project was TMDB API which was available online. In this project, I have implemented Razorpay Integration also for demo purposes for purchasing a particular movie. I have deployed this project on Vercel.
             </p>
             <div id="button3" className="flex  justify-center flex-wrap">
