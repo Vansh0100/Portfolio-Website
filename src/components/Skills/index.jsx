@@ -36,9 +36,9 @@ function SmallScreen() {
               striped
               now={50}
               variant="warning"
-              label="50% JAVASCRIPT"
+              label="50% Javascript"
               className="w-full "
-              style={{ height: "40px", borderRadius: "50px", fontSize: "18px"
+              style={{ height: "40px", borderRadius: "50px", fontSize: "16px"
             ,background:"gray" }}
             />
             <ProgressBar
